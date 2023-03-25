@@ -1,0 +1,15 @@
+package org.example;
+
+/*
+https://www.codewars.com/kata/62c93765cef6f10030dfa92b/train/java
+An infinite number of shelves are arranged one above the other in a staggered fashion.
+The cat can jump either one or three shelves at a time: from shelf i to shelf i+1 or i+3 (the cat cannot climb on the shelf directly above its head), according to the illustration:
+Start 1, finish 5, then answer is 2 (1 => 4 => 5 or 1 => 2 => 5)
+ */
+
+public class CatsAndShelves {
+    public static int solution(int start, int finish) {
+        int n = finish - start;
+        return (n - (n % 3)) / 3 + (n % 3);
+    }
+}

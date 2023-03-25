@@ -11,5 +11,6 @@ public class CatsAndShelves {
     public static int solution(int start, int finish) {
         int n = finish - start;
         return (n - (n % 3)) / 3 + (n % 3);
+        // подсмотрено return n / 3 + n % 3;
     }
 }

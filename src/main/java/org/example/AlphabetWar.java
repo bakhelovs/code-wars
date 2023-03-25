@@ -1,6 +1,7 @@
 package org.example;
 
 /*
+https://www.codewars.com/kata/59377c53e66267c8f6000027/java
 Introduction
 There is a war and nobody knows - the alphabet war!
 There are two groups of hostile letters. The tension between left side letters and right side letters was too high and the war began.

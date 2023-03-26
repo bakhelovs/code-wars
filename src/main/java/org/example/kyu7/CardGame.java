@@ -1,4 +1,4 @@
-package org.example;
+package org.example.kyu7;
 
 /*
 Alice and Bob are playing a game. There are n(1≤n≤10^18) cards on the table. The aim of the game is to collect the most cards. The rules:

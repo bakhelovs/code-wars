@@ -1,4 +1,4 @@
-package org.example;
+package org.example.kyu7;
 
 /*
 Write a class Block that creates a block (Duh..)

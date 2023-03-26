@@ -1,4 +1,4 @@
-package org.example;
+package org.example.kyu7;
 
 /*
 https://www.codewars.com/kata/6411b91a5e71b915d237332d/train/java
